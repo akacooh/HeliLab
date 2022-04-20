@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>566a11732908f5743a757a3a8d1d9bb3</guid>
+    <fileName>Assets/Scripts/Ally.cs</fileName>
+    <timeStamp>2022-04-19T22:28:13.7375387+03:00</timeStamp>
+    <typeFullName>
+      <string>Ally</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ca7b564d5a63344d9208401a85b3d9a</guid>
+    <fileName>Assets/Scripts/CameraController.cs</fileName>
+    <timeStamp>2022-04-21T00:33:13.9833718+03:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69fe7e2e5f1fd2045a90a53d2ce4447b</guid>
+    <fileName>Assets/Scripts/Plane.cs</fileName>
+    <timeStamp>2022-04-19T03:51:22.4473446+03:00</timeStamp>
+    <typeFullName>
+      <string>Plane</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>992fbf87faf03f247aea68f76c42dbbd</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2022-04-21T00:21:47.0668377+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7addcca0449d89e428c6c09cbc69d3af</guid>
+    <fileName>Assets/Scripts/Rocket.cs</fileName>
+    <timeStamp>2022-04-20T23:58:59.6130183+03:00</timeStamp>
+    <typeFullName>
+      <string>Rocket</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e9c99f96565c39468db99b1bbeddc9e</guid>
+    <fileName>Assets/Scripts/Rotate.cs</fileName>
+    <timeStamp>2022-04-21T00:33:14.648077+03:00</timeStamp>
+    <typeFullName>
+      <string>Rotate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47646aa2c07ba6341a0deee224f79949</guid>
+    <fileName>Assets/Scripts/Shot.cs</fileName>
+    <timeStamp>2022-04-17T23:51:10.8092029+03:00</timeStamp>
+    <typeFullName>
+      <string>Shot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c849b868521ef74fad997574a1ed014</guid>
+    <fileName>Assets/Scripts/SoldierBehaviour.cs</fileName>
+    <timeStamp>2022-04-21T00:32:07.6865914+03:00</timeStamp>
+    <typeFullName>
+      <string>SoldierBehaviour</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>114a4834452ab52478464bff0d9efd32</guid>
+    <fileName>Assets/Scripts/SpawnManager.cs</fileName>
+    <timeStamp>2022-04-21T00:33:13.141993+03:00</timeStamp>
+    <typeFullName>
+      <string>SpawnManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>77aa9b20ab3ef4b46b312dde501a84e8</guid>
+    <fileName>Assets/Scripts/Trail.cs</fileName>
+    <timeStamp>2022-04-19T22:43:24.3412978+03:00</timeStamp>
+    <typeFullName>
+      <string>Trail</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88a221446fcb5634082c6f4fa753d62f</guid>
+    <fileName>Assets/Scripts/UIManager.cs</fileName>
+    <timeStamp>2022-04-20T15:59:57.3304264+03:00</timeStamp>
+    <typeFullName>
+      <string>UIManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
